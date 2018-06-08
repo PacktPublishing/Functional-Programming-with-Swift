@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='1. Immutability'/>
+        <page name='2. Structs'/>
+        <page name='3. Non-mutating language functions'/>
+        <page name='4. Optionals'/>
+        <page name='5. Closures'/>
+    </pages>
+</playground>
